@@ -1,5 +1,5 @@
 # api-service
-# git clone https://github.com/micaelapetterson/test-crud.git --branch master
+# git clone https://github.com/micaelapetterson/api-service.git --branch master
 # generar archivo .env en raíz
 # Agregar datos de DB
 # composer install
